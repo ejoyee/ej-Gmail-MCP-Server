@@ -5,7 +5,7 @@
   "type": "module",
   "main": "dist/index.js",
   "bin": {
-    "ej-gmail-mcp": "./dist/index.js"
+    "ej-mcp-server-gmail": "./dist/index.js"
   },
   "scripts": {
     "build": "tsc",
