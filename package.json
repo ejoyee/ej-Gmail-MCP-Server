@@ -1,11 +1,11 @@
 {
-  "name": "@gongrzhe/server-gmail-autoauth-mcp",
+  "name": "ejoyee/ej-server-gmail-autoauth-mcp",
   "version": "1.1.8",
-  "description": "Gmail MCP server with auto authentication support",
+  "description": "Gmail MCP server with auto authentication support << update by ejoyee",
   "type": "module",
   "main": "dist/index.js",
   "bin": {
-    "gmail-mcp": "./dist/index.js"
+    "ej-gmail-mcp": "./dist/index.js"
   },
   "scripts": {
     "build": "tsc",
